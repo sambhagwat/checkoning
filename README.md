@@ -58,7 +58,7 @@ If you get tired of doing this repeatedly, you can make a `.config.json` file in
 	"username": "my_username",
 	"password": "password123",
 	"organization": "companyname",
-	"team": 12345
+	"team": "front-end"
 }
 ```
 
